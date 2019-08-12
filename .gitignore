@@ -1,0 +1,8 @@
+/libspecs/
+.project
+.pydevproject
+log.html
+output.xml
+red.xml
+report.html
+__pycache__/currency_converter.cpython-36.pyc
